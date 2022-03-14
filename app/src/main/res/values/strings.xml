@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Momis</string>
+    <string name="first_name">First Name</string>
+    <string name="verify_my_account">Verify My Account</string>
+    <string name="create_account_and_have_access_to_more">Create account and have access to more!</string>
+    <string name="sign_up">Sign up</string>
+    <string name="sign_up_with">Sign Up with</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+</resources>
